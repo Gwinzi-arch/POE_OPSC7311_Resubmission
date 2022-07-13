@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_category_add.xml" value="0.1" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_gamification.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_graph.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_pdf_add.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_pdf_detail.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_pdf_edit.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_pdf_list_admin.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_pdf_view.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_profile_edit.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/row_category.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/row_comment.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/row_pdf_admin.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/row_pdf_favorite.xml" value="0.2" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/BookApp_Code/BookApp Updated Libs/app/src/main/res/layout/row_pdf_user.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
